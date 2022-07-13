@@ -8,7 +8,6 @@
 /example/
 
 npm-debug.json
-package-lock.json
 
 .babelrc
 .gitignore
